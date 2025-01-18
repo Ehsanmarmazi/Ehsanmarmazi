@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="right" alt="PC GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/PC.gif" width="130" />
 🌱 I'm currently learning C# and python<br>🤝 I'm looking to collaborate on game changing projects<br>🔭 I'm looking for help with web development<br>👾 my favourite field of programming is Front-end<br>
 
 
